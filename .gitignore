@@ -1,0 +1,6 @@
+.idea
+node_modules
+target
+app/vendor
+app/build
+app/bin
